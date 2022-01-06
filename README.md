@@ -1,6 +1,6 @@
 # awesome-toolbox
 
-GitHub awesome resource ranking, help you to make choose.
+GitHub awesome resources with ranking and search, help you to make choose.
 
 ## awesome lists
 
